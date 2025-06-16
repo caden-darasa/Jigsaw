@@ -196,9 +196,9 @@
     "_far": 1000,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 179,
+      "g": 179,
+      "b": 179,
       "a": 255
     },
     "_depth": 1,
@@ -299,7 +299,7 @@
     "node": {
       "__id__": 5
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": null,
     "_customMaterial": null,
     "_srcBlendFactor": 2,
@@ -469,6 +469,8 @@
     "_isUnderline": false,
     "_underlineHeight": 2,
     "_cacheMode": 0,
+    "_isUseVerticalKerning": false,
+    "_verticalKerning": null,
     "_id": "52tA3l0gNLa6eaVzsEqN5P"
   },
   {
@@ -682,6 +684,8 @@
     "_isUnderline": false,
     "_underlineHeight": 2,
     "_cacheMode": 0,
+    "_isUseVerticalKerning": false,
+    "_verticalKerning": null,
     "_id": "0fsc8cSBdKT5T6HVuRfPJd"
   },
   {
@@ -1045,6 +1049,8 @@
     "_isUnderline": false,
     "_underlineHeight": 2,
     "_cacheMode": 0,
+    "_isUseVerticalKerning": false,
+    "_verticalKerning": null,
     "_id": "333ViAaIRNrrlZDcEGVOJQ"
   },
   {
@@ -1341,6 +1347,8 @@
     "_isUnderline": false,
     "_underlineHeight": 2,
     "_cacheMode": 0,
+    "_isUseVerticalKerning": false,
+    "_verticalKerning": null,
     "_id": "30rmpU41pC0pVpO5p/Fz+p"
   },
   {
